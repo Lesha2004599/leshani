@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+body {
+	font-family: Arial,sans-serif;
+	margin:0;
+	background-color: reds;
+	color:#333;}
+
+nav {
+	background-color:purple;
+	padding:15px;
+	text-align:center;
+}
+nav a {
+	color:white;
+	margin:0 15px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+nav a hover {
+	text-decoration:underline;
+}
+
+.container {
+	padding:20px;
+}
+
+h1,h2 {
+	color: #6a0dad;
+}
+
+img {
+	width: 150px;
+	border-radius: 50%;
+}
+footer{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	padding: 20px 20px;
+}
+footer-box{color: black;
+}
